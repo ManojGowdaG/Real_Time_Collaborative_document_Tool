@@ -23,8 +23,3 @@ A real-time collaborative document editor built using the **MERN** stack, allowi
 - **Real-time**: Socket.IO
 - **Database**: MongoDB (via Mongoose)
 - **Authentication**: JWT + Bcrypt
-
----
-
-## 📂 Project Structure
-
